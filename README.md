@@ -1,7 +1,6 @@
 # API Anime en React
 
-### En este proyecto desarrolle una app en React haciendo uso de una API libre de un sitio web llamado Zoro. En la cual se encuentran informacion de cientos de animes. En mi app tome
-### mis 7 animes favoritos y les mostraré su informacion, sus capitulos y estando disponible 24/7 gracias a Netlify
+### En este proyecto desarrolle una app en React haciendo uso de una API libre de un sitio web llamado Zoro. En la cual se encuentran informacion de cientos de animes. En mi app tome mis 7 animes favoritos y les mostraré su informacion, sus capitulos y estando disponible 24/7 gracias a Netlify
 
 ## Les dejo el siguiente enlace para que puedan visitar mi sitio:
 
