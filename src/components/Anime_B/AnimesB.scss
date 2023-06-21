@@ -1,0 +1,24 @@
+
+.Contenido {
+    .Capitulos {
+        float:left;
+
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        padding-bottom: 10px;
+
+        width: 175px;
+        height: 200px;
+    }
+
+    .Texto {
+        font-size: large;
+        text-align: justify;
+
+    }
+
+    Img {
+        width: 300px;
+    }
+}
